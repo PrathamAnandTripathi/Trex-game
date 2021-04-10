@@ -1,2 +1,2 @@
 # Trex-game
-this is a Trex game.
+This is a Trex game.
